@@ -1,8 +1,8 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/1ff33d46-cb63-48a4-86fa-6a5b5dbe2f3d.svg)](https://wakatime.com/@1ff33d46-cb63-48a4-86fa-6a5b5dbe2f3d)
 <!--
 **gs-costa/gs-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![wakatime](https://wakatime.com/badge/user/1ff33d46-cb63-48a4-86fa-6a5b5dbe2f3d.svg)](https://wakatime.com/@1ff33d46-cb63-48a4-86fa-6a5b5dbe2f3d)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
